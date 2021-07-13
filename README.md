@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End, UX/UI and data structures
 - 🌱 I’m currently learning object oriented programming
 - 💞️ I’m looking to collaborate on exciting projects!
-- 📫 How to reach me : LinkedIn:  linkedin.com/in/joaobittencourt010/
+- 📫 How to reach me : LinkedIn:  https://www.linkedin.com/in/joaobittencourt010/
                          Behance: https://www.behance.net/jpdesign01
 
 <!---
